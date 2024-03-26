@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Package
+  - Customer
+  - SpeedUp
+  - Generator
+  - GeneratorPlace
+  - CarParking
+  - Equipment
+  - Speaker
+  - Sub
+  - SubPlace
+  - SpeakerPlace
+  - Controller
+  - ControllerPlace
+  - Ground
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Goober
+  - Hazards
+  - Bullets
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4087358815
+    locked: 0
+  - name: Water
+    uniqueID: 1446170529
+    locked: 0
+  - name: platforms
+    uniqueID: 3049803471
+    locked: 0
+  - name: Ladders
+    uniqueID: 3198618765
+    locked: 0
+  - name: Hazards
+    uniqueID: 3613120149
+    locked: 0
+  - name: Player
+    uniqueID: 2437229797
+    locked: 0
+  - name: Enemies
+    uniqueID: 494113831
+    locked: 0
+  - name: Interractable
+    uniqueID: 3587521389
+    locked: 0
+  - name: Bullets
+    uniqueID: 2577854151
+    locked: 0
