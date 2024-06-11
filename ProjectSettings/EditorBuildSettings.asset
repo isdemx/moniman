@@ -6,7 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0023826f40ddf4f42825762751a56ab4
+  - enabled: 1
+    path: Assets/Scenes/TestGameScene.unity
+    guid: 88d1ba1935e535e4f9278acef72d909d
+  - enabled: 1
     path: Assets/Scenes/driver.unity
     guid: b2f940f364a394a45b6dc5182a6a0df8
+  - enabled: 1
+    path: Assets/Scenes/driverReady.unity
+    guid: 431388137fa8f8e46928d4eeb3fb0557
+  - enabled: 1
+    path: Assets/Scenes/Snowboard.unity
+    guid: c62f31196ae67487f84ab64b88612ca3
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3785cc889305142d59740250eda11844, type: 2}

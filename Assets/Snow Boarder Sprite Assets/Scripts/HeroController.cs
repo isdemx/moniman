@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class HeroController : MonoBehaviour
 {
     // [SerializeField] float torqueAmount = 1f;
@@ -50,5 +50,15 @@ public class HeroController : MonoBehaviour
         }
 
     }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "exit")
+        {
+            SceneManager.LoadScene("driverReady");
+        }
+    }
+
+
 
 }

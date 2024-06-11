@@ -19,6 +19,9 @@ TagManager:
   - ControllerPlace
   - Ground
   - Enemy
+  - cargo
+  - snowboard
+  - exit
   layers:
   - Default
   - TransparentFX
